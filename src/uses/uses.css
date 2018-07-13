@@ -1,0 +1,19 @@
+body{
+background-image: url("https://img.freepik.com/free-vector/watercolour-texture-background_1048-6656.jpg?size=338&ext=jpg");
+background-size: cover;
+}
+
+.usesHeader {
+  background-color: lightblue;
+  border: 5px lightseagreen solid;
+  font-family: fantasy;
+  margin-left: 43%;
+  width: 450px;
+}
+
+.usesp {
+  background-color: lightblue;
+  border: 5px lightseagreen solid;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+}

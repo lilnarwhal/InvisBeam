@@ -1,2 +1,0 @@
-# InvisBeam
-Created with CodeSandbox

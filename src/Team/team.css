@@ -1,0 +1,37 @@
+.text-center {
+  text-align: center;
+  font-family: fantasy;
+  background-color: lightblue;
+  border-top: 5px lightseagreen solid;
+   border-bottom: 5px lightseagreen solid;
+
+}
+
+.leftimg{
+  border-left:5px lightseagreen solid;
+}
+
+.rightimg{
+  border-right:5px lightseagreen solid;
+}
+
+.teamp {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: lightblue;
+  border: 5px lightseagreen solid;
+  text-align: center;
+  width: 500px;
+  margin-left: 35%;
+  font-size: 20px;
+  
+body {
+background-image: url("https://img.freepik.com/free-vector/watercolour-texture-background_1048-6656.jpg?size=338&ext=jpg");
+background-size: cover;
+}
+
+.teamcss{
+  border-radius: 150px;
+  height: 150px;
+  width: 150px;
+}
+

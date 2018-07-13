@@ -1,0 +1,23 @@
+.colordiv {
+  background-color: lightblue;
+  border: 5px lightseagreen solid;
+  height: 40px;
+
+  
+}
+
+.lefttd {
+  margin-left: 30%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  text-align: center;
+  font-family: fantasy;
+  color: black;
+  font-size: 25px;
+}

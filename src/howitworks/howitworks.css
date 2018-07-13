@@ -1,0 +1,30 @@
+.thingy2 {
+background-color: #9ec3ff;
+height: 80px;
+width: 1400x;
+border: 10px whitesmoke solid;
+border-radius: 15%;
+}
+
+.alignleftplz{
+  text-align:left;
+}
+
+.changetxtcolor {
+color: black;
+text-align: center;
+padding-top: 25px;
+margin: 1px;
+}
+
+body {
+background-image: url("https://img.freepik.com/free-vector/watercolour-texture-background_1048-6656.jpg?size=338&ext=jpg");
+background-size: cover;
+}
+
+
+.lastmin{
+  font-size: 20px;
+}
+
+//----------------
